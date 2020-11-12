@@ -3,4 +3,8 @@ How are you today... !!!!
 Have a great week......
 
 
+<<<<<<< HEAD
 Merge conflict expected from branch1 commit
+=======
+Hello!!!! from branch1
+>>>>>>> branch1
